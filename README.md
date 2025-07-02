@@ -23,13 +23,13 @@ From designing robust **backend architectures and microservices** to creating in
   </a>
 </div>
 
-<h3>🧰 Tools Arsenal </h3>
+<h3>🧰 My Arsenal </h3>
 
 ---
 
 <h4>💻 Programming Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,c" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,typescript,cs,c" />
 </p>
 
 <!-- Backend Frameworks -->
@@ -53,7 +53,7 @@ From designing robust **backend architectures and microservices** to creating in
 <!-- Cloud & DevOps -->
 <h4>☁️ Cloud & DevOps</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,jenkins" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,jenkins,gcp" />
 </p>
 
 <h4>🧠 AI & Agent Frameworks</h4>
@@ -77,14 +77,16 @@ From designing robust **backend architectures and microservices** to creating in
 
 <h4>🛠️ Tools & Utilities</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman," />
+  <img src="https://skillicons.dev/icons?i=git,postman,github,bitbucket,linux,bash,npm" />
 </p>
 
 <br />
 
 <h3>📊 GitHub Contributions Summary</h3>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shyamal-Shah&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shyamal-Shah&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak"/>
+</div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Shyamal-Shah&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&rank_icon=github&count_private=true&include_all_commits=true" />
 </div>
 
